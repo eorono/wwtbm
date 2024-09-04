@@ -1,0 +1,168 @@
+{
+    "easy": [
+        {
+            "question": "¿Cuál es el apodo cariñoso que se le da a Maracaibo?",
+            "options": ["La Ciudad del Sol Amado", "La Perla del Zulia", "La Bella Maracaibera", "La Capital Petrolera"],
+            "answer": 0
+        },
+        {
+            "question": "¿En qué año se fundó Maracaibo?",
+            "options": ["1530", "1678", "1529", "1904"],
+            "answer": 2
+        },
+        {
+            "question": "¿Cuál es el fenómeno meteorológico único que ocurre en Maracaibo?",
+            "options": ["El Relámpago del Catatumbo", "La Nube de Maracaibo", "Los Vientos del Zulia", "La Lluvia Ácida"],
+            "answer": 0
+        },
+        {
+            "question": "Nombre del equipo de Baseball del Zulia",
+            "options": ["Los buchones", "Boys II men", "Blue", "Aguilas del Zulia"],
+            "answer": 3
+        },
+        {
+            "question": "¿Cuál es el nombre del puente sobre el lago de Maracaibo?",
+            "options": ["Puente sobre el Lago de Maracaibo", "Puente General Rafael Urdaneta", "Puente Urdaneta", "Puente de Maracaibo"],
+            "answer": 1
+        },
+        {
+            "question": "¿Cuál de estos platos es típico de la ciudad?",
+            "options": ["Arepa Andina", "Patacon", "Tostada Caroreña", "Pisillo de Chiguire"],
+            "answer": 1 
+        },
+        {
+            "question": "¿Cuál es la musica tipica de Maracaibo?",
+            "options": ["Gaita zuliana", "Salsa", "Llanera", "Vallenato"],
+            "answer": 0 
+        },
+        {
+            "question": "¿Cuántas parroquias tiene Maracaibo?",
+            "options": ["21", "19", "18", "24"],
+            "answer": 2 
+        },
+        {
+            "question": "¿Cómo continua la letra? Esta es la ciudad más bella…",
+            "options": ["que existe en el puente", "que existe en el consciente", "que existe en el continente", "que existe en el ponente"],
+            "answer": 2 
+        },
+        {
+            "question": "¿En qué mes se celebra la Feria de la Chinita?",
+            "options": ["Octubre", "Diciembre", "Septiembre", "Noviembre"],
+            "answer": 3 
+        },
+        {
+            "question": "¿Cuál es el elemento que representa a la alcaldía de Maracaibo?",
+            "options": ["Un Sol", "Un Puente", "Un Carro", "Un Cepillado"],
+            "answer": 0 
+        },
+        {
+            "question": "¿Cómo es conocido el parque con vista al lago en la Av. El Milagro en Maracaibo?",
+            "options": ["Paseo Urdaneta", "Paseo al lago", "Parque Vereda del Lago", "Parque del Lago"],
+            "answer": 2 
+        }
+    ],
+    "medium": [
+        {
+            "question": "¿En qué año se celebró la Feria de la Chinita por primera vez?",
+            "options": ["1749", "1869", "1969", "1999"],
+            "answer": 1
+        },
+        {
+            "question": "¿En qué fecha se conmemora la aparición de Nuestra Señora del Rosario de Chiquinquirá?",
+            "options": ["16 de Noviembre", "19 de Noviembre", "18 de Noviembre", "17 de Noviembre"],
+            "answer": 2
+        },
+        {
+            "question": "¿Quién fue el autor de la Gaita ‘‘Sentir Zuliano’’?",
+            "options": ["Ricardo Aguirre", "Ricardo Cepeda", "Ricardo Gonzalez", "Ricardo Segundo"],
+            "answer": 1
+        },
+        {
+            "question": "¿Cuál es el color de la bandera de Maracaibo?",
+            "options": ["Blanca, Rojo y Azul", "Rojo, Azul, Blanca", "Negro y Azul", "Azul, Blanca, Rojo"],
+            "answer": 0
+        },
+        {
+            "question": "¿Cuál de estos beisbolistas nació en Maracaibo  y se encuentra en el salón de la Fama de Béisbol?",
+            "options": ["Bob Abreu", "Miguel Cabrera", "Luis Aparicio", "Wilson Alvarez"],
+            "answer": 2
+        },
+        {
+            "question": "¿Cuál es el nombre del teatro que proyectó la primera película en Maracaibo?",
+            "options": ["Cine Lido", "Lía Bermúdez", "Bellas Artes", "Teatro Baralt"],
+            "answer": 3
+        },
+        {
+            "question": "¿Cuál es el nombre de la plaza en Maracaibo, que tiene en el centro un obelisco?",
+            "options": ["Parque Urdaneta", "Plaza de la República", "Plaza Alí Primera", "Plaza Bolívar"],
+            "answer": 1
+        },
+        {  
+            "question": "¿Cuál es el nombre del patrón de Maracaibo según la religión católica?",
+            "options": ["San Juan de Dios", "Santa Barbara", "San Sebastian", "Santa Lucía"],
+            "answer": 2
+        },
+        {
+            "question": "¿Cuál es el color del Tranvía de Maracaibo?",
+            "options": ["azul y rojo", "verde y amarillo", "amarillo y rojo", "blanco y rojo"],
+            "answer": 2
+        },
+        {
+            "question": "¿Cuál es el nombre de las casas de madera construidas sobre el lago de maracaibo?",
+            "options": ["Parabitos", "Paraflitos", "Palafitos", "Pantalifos"],
+            "answer": 2
+        },
+        {
+            "question": "¿Cuál es el poeta más conocido en la historia de Maracaibo?",
+            "options": ["Miguel Marcotrigiano.", "María Antonieta Flores", "Victor Bravo", "Udón Pérez"],
+            "answer": 3
+        }
+    ],
+    "hard": [
+        {
+            "question": "¿Cuál fue el nombre de la primera tienda departamental en Maracaibo?",
+            "options": ["Callejón de los Pobres", "La botica nueva", "Mercado Principal Maracaibo", "Casa Mac Gregor"],
+            "answer": 3
+        },
+        {
+            "question": "¿Cuál fue el primer rascacielos de Maracaibo?",
+            "options": ["Casa Mac Gregor", "Club Aleman", "La Botica Nueva", "Farmacia ‘‘El Convento’"],
+            "answer": 2
+        },
+        {
+            "question": "¿En qué año se escribió el himno de Maracaibo?",
+            "options": ["1998", "2016", "2015", "2017"],
+            "answer": 1
+        },
+        {
+            "question": "¿En qué año se fundó el Hospital Central de Maracaibo?",
+            "options": ["1608", "1690", "1830", "1856"],
+            "answer": 0
+        },
+        {
+            "question": "¿Cuál es el largo del Puente General Rafael Urdaneta?",
+            "options": ["7.678 m", "8.678 m", "9.700 m", "8.576 m"],
+            "answer": 1
+        },
+        {
+            "question": "¿Cuántos títulos tienen las Aguilas del Zulia en la Liga?",
+            "options": ["3", "4", "6", "2"],
+            "answer": 2
+        },
+        {
+            "question": "¿Cuántos títulos tienen las Aguilas del Zulia en la Serie del Caribe?",
+            "options": ["2", "4", "6", "1"],
+            "answer": 0
+        },
+        {
+            "question": "¿En qué año se inició la construcción del Puente sobre le Lago?",
+            "options": ["1970", "1960", "1958", "1933"],
+            "answer": 2
+        },
+        {
+            "question": "¿Cuál es el nombre de la Isla de los leprosos?",
+            "options": ["Isla de Zapara", "Isla de Toas", "Isla de San Carlos", "Isla de Providencia"],
+            "answer": 2
+        }
+    ]
+}

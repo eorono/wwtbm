@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="author" content="Basil George">
+    <title>Who Wants To Be A Millionaire</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <main class="container">
+        <!-- Start Page -->
+        <section class="start-box custom">
+            <div class="game-logo">
+                <img src="img/logo.png" alt="logo">
+            </div>
+            <div class="instruction">
+                <h3>Instructions</h3>
+                <ul class="instruction-list">
+                    <li>Tendrás 30 segundos para responder cada pregunta</li>
+                    <li>El juego termina si...:
+                        <ul>
+                            <li>Tiempo terminado</li>
+                            <li>Respuesta incorrecta</li>
+                            <li>Si alguien te sopla alguna de las respuestas sin usar alguno de los comodines,</li>
+                            <li>se te eliminará este beneficio o deberás abandonar la partida</li>
+                        </ul>
+                    </li>
+                    <li>Cada 5 niveles aseguras tu premio</li>
+                    <li>Puedes retirarte y mantener tu premio.</li>
+                    <li>El premio no es acumulativo ganarás lo que corresponda a la pregunta o nivel en que quedaste.</li>
+                    <li>Life lines
+                        <ul>
+                            <li>50:50 => Removes two wrong answers</li>
+                            <li>Ask the Audiences</li>
+                            <li>Call a friend</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="user-info">
+                <div class="start-game-btn btn">Start game</div>
+            </div>
+        </section>
+        <!-- Main Game Page -->
+        <section class="game-box custom">
+            <div class="game">
+                <div class="game-logo-current">
+                    <img src="img/logo.png" alt="logo">
+                </div>
+                <div class="timer">15</div>
+                <div class="current-question-amount"></div>
+                <div class="life-line-display-box">
+                    <div class="call">
+                        <img src="img/call.png" alt="call">
+                        <div class="call-answer"></div>
+                    </div>
+                    <div class="au-cover">
+                        <h4 class="alpha">ABCD</h4>
+                        <div class="au-container">
+                            <div class="au-box" id="0"><span></span><div class="bx"></div></div>
+                            <div class="au-box" id="1"><span></span><div class="bx"></div></div>
+                            <div class="au-box" id="2"><span></span><div class="bx"></div></div>
+                            <div class="au-box" id="3"><span></span><div class="bx"></div></div>
+                        </div>
+                    </div>
+                    <div class="amount-won"></div>
+                </div>
+                <div class="question-box">
+                    <div class="question">
+                        <div class="question-number"></div>
+                        <div class="question-text"></div>
+                    </div>
+                    <div class="option-box">
+                        <div class="option" id="0" onclick="check(this)"><span class="span-o">A: </span><span class="opt"></span></div>
+                        <div class="option" id="1" onclick="check(this)"><span class="span-o">B: </span><span class="opt"></span></div>
+                        <div class="option" id="2" onclick="check(this)"><span class="span-o">C: </span><span class="opt"></span></div>
+                        <div class="option" id="3" onclick="check(this)"><span class="span-o">D: </span><span class="opt"></span></div>
+                    </div>
+                    <div class="next-question">
+                        <button type="button" class="next-question-btn btn">Next Question</button>
+                        <button type="button" class="playAgain-btn btn">Play Again</button>
+                    </div>
+                </div>
+            </div>
+            <div class="side">
+                <div class="life-lines">
+                    <div class="fify50"><span class="cancel"></span></div>
+                    <div class="callAFriend"><span class="cancel"></span></div>
+                    <div class="askTheAudience"><span class="cancel"></span></div>
+                </div>
+                <div class="price-box">
+                    <ol class="prices" reversed>
+                        <li><span>&#9671;</span>1 MILLION</li>
+                        <li><span>&#9671;</span>500,000</li>
+                        <li><span>&#9671;</span>250,000</li>
+                        <li><span>&#9671;</span>125,000</li>
+                        <li><span>&#9671;</span>64,000</li>
+                        <li><span>&#9671;</span>32,000</li>
+                        <li><span>&#9671;</span>16,000</li>
+                        <li><span>&#9671;</span>Tranvia</li>
+                        <li><span>&#9671;</span>Consumo</li>
+                        <li><span>&#9671;</span>Gorra</li>
+                        <li><span>&#9671;</span>Seguro</li>
+                        <li><span>&#9671;</span>Pulsera</li>
+                        <li><span>&#9671;</span>Postal</li>
+                        <li><span>&#9671;</span>Boligrafo</li>
+                        <li><span>&#9671;</span>Llavero</li>
+                    </ol>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
