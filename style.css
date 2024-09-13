@@ -530,6 +530,14 @@ body{
         bottom: 0;
     }
 
+    .game-box .game .life-line-display-box .amount-won{
+        margin-top: 9rem;
+        display: none;
+        color: var(--white-color);
+        font-size: 19px;
+        font-weight: bold;
+    }
+
     .game-box .game .question-box .question .question-number, .game-box .current-question-amount {
       display: none;
     }
@@ -585,8 +593,8 @@ body{
         align-items: center;
         bottom: 0;
         margin-bottom: 70%;
-        width: 15rem;
-        height: 23rem;
+        width: 55%;
+        height: 30%;
         /*background-color: var(--black-color);*/
         transition: all .3s linear;
         animation: moveDown 1s linear;
