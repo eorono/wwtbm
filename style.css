@@ -165,8 +165,6 @@ body{
     align-items: center;
     bottom: 0;
     margin-bottom: 12%;
-    width: 15rem;
-    height: 23rem;
     /*background-color: var(--black-color);*/
     transition: all .3s linear;
     animation: moveDown 1s linear;
@@ -188,7 +186,7 @@ body{
     margin-top: 9rem;
     display: none;
     color: var(--white-color);
-    font-size: 1.9rem;
+    font-size: 22px;
     font-weight: bold;
 }
 .game-box .game .life-line-display-box .amount-won.show{
@@ -448,6 +446,7 @@ body{
 }
 .game-box .side .life-lines .callAFriend{
     background-image: url("img/phone.png");
+    display: none;
 }
 .game-box .side .life-lines .askTheAudience{
     background-image: url("img/ask.png");

@@ -481,21 +481,21 @@ function result() {
     if (questionIndex < 4) {
         lifelineBox.classList.add("show");
         amountWon.classList.add("show");
-        amountWon.innerHTML = "Ganaste: Nada";
+        amountWon.innerHTML = "No lograste asegurar";
     }
     else if (questionIndex >= 4 && questionIndex < 9) {
         lifelineBox.classList.add("show");
         amountWon.classList.add("show");
-        amountWon.innerHTML = "Ganaste: $1000";
+        amountWon.innerHTML = "Aseguraste premio";
     }
     else if (questionIndex >= 9 && questionIndex < 14) {
         lifelineBox.classList.add("show");
         amountWon.classList.add("show");
-        amountWon.innerHTML = "Ganaste: $32,000";
+        amountWon.innerHTML = "Aseguraste premio";
     }
     else if (questionIndex >= 14) {
         lifelineBox.classList.add("show");
         amountWon.classList.add("show");
-        amountWon.innerHTML = "Ganaste: $1 Million";
+        amountWon.innerHTML = "Aseguraste premio";
     }
 }
