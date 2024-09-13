@@ -11,27 +11,52 @@
             "answer": 2
         },
         {
-            "question": "¿Cuál es el fenómeno meteorológico único que ocurre en Maracaibo?",
+            "question": "¿Cuál de estos es el equipo de Básquet de Maracaibo?",
+            "options": ["Próceres y Gaiteros", "Brillantes y Religiosos", "Religioso y Ganadores", "Gaiteros y Brillantes"],
+            "answer": 3
+        },
+        {
+            "question": "¿Cuál es el Hospital más antiguo de Maracaibo?",
+            "options": ["Hospital Chiquinquirá", "Hospital Universitario", "Hospital Coromoto", "Hospital Central"],
+            "answer": 3
+        },
+        {
+            "question": "¿En dónde se firmó el Tratado de la Capitulación?",
+            "options": ["Palacio de Gobierno", "Concejo Legislativo", "Casa de la Capitulación", "Alcaldía"],
+            "answer": 2
+        },
+        {
+            "question": "Nombre de los árboles que sirven como barrera de defensa entre la tierra y el mar, estos están ubicados cerca de nuestro Lago",
+            "options": ["Mangle", "Curarires", "Araguaney", "Nin"],
+            "answer": 0
+        },
+        {
+            "question": "¿Cuál es el nombre de la gaita Na nai na na na na nai na?",
+            "options": ["El barrio de mis andanzas", "Gaita Onomatopeyica", "Sentir Zuliano", "Virgen Morena"],
+            "answer": 1
+        },
+        {
+            "question": "¿Cuál es el fenómeno meteorológico único que ocurre en el Zulia?",
             "options": ["El Relámpago del Catatumbo", "La Nube de Maracaibo", "Los Vientos del Zulia", "La Lluvia Ácida"],
             "answer": 0
         },
         {
-            "question": "Nombre del equipo de Baseball del Zulia",
-            "options": ["Los buchones", "Boys II men", "Blue", "Aguilas del Zulia"],
+            "question": "Nombre del equipo de Béisbol del Zulia",
+            "options": ["Los buchones", "Tilapias del Zulia", "Gaiteros", "Águilas del Zulia"],
             "answer": 3
         },
         {
-            "question": "¿Cuál es el nombre del puente sobre el lago de Maracaibo?",
+            "question": "¿Cuál es el nombre del puente sobre el Lago de Maracaibo?",
             "options": ["Puente sobre el Lago de Maracaibo", "Puente General Rafael Urdaneta", "Puente Urdaneta", "Puente de Maracaibo"],
             "answer": 1
         },
         {
             "question": "¿Cuál de estos platos es típico de la ciudad?",
-            "options": ["Arepa Andina", "Patacon", "Tostada Caroreña", "Pisillo de Chiguire"],
+            "options": ["Arepa Andina", "Patacón", "Tostada Caroreña", "Pisillo de Chiguire"],
             "answer": 1 
         },
         {
-            "question": "¿Cuál es la musica tipica de Maracaibo?",
+            "question": "¿Cuál es la música típica de Maracaibo?",
             "options": ["Gaita zuliana", "Salsa", "Llanera", "Vallenato"],
             "answer": 0 
         },
@@ -56,35 +81,30 @@
             "answer": 0 
         },
         {
-            "question": "¿Cómo es conocido el parque con vista al lago en la Av. El Milagro en Maracaibo?",
+            "question": "¿Cuál es el nombre del parque con vista al lago en la Av. El Milagro en Maracaibo?",
             "options": ["Paseo Urdaneta", "Paseo al lago", "Parque Vereda del Lago", "Parque del Lago"],
             "answer": 2 
         }
     ],
     "medium": [
         {
-            "question": "¿En qué año se celebró la Feria de la Chinita por primera vez?",
-            "options": ["1749", "1869", "1969", "1999"],
-            "answer": 1
-        },
-        {
             "question": "¿En qué fecha se conmemora la aparición de Nuestra Señora del Rosario de Chiquinquirá?",
-            "options": ["16 de Noviembre", "19 de Noviembre", "18 de Noviembre", "17 de Noviembre"],
+            "options": ["16 de noviembre", "19 de noviembre", "18 de noviembre", "17 de noviembre"],
             "answer": 2
         },
         {
             "question": "¿Quién fue el autor de la Gaita ‘‘Sentir Zuliano’’?",
-            "options": ["Ricardo Aguirre", "Ricardo Cepeda", "Ricardo Gonzalez", "Ricardo Segundo"],
+            "options": ["Ricardo Aguirre", "Ricardo Cepeda", "Ricardo González", "Ricardo Segundo"],
             "answer": 1
         },
         {
             "question": "¿Cuál es el color de la bandera de Maracaibo?",
-            "options": ["Blanca, Rojo y Azul", "Rojo, Azul, Blanca", "Negro y Azul", "Azul, Blanca, Rojo"],
+            "options": ["Blanco, Rojo y Azul", "Rojo, Amarillo, Blanco", "Negro y Azul", "Azul, Verde, Rojo"],
             "answer": 0
         },
         {
-            "question": "¿Cuál de estos beisbolistas nació en Maracaibo  y se encuentra en el salón de la Fama de Béisbol?",
-            "options": ["Bob Abreu", "Miguel Cabrera", "Luis Aparicio", "Wilson Alvarez"],
+            "question": "¿Cuál de estos beisbolistas nació en Maracaibo y se encuentra en el salón de la Fama de Béisbol?",
+            "options": ["Bob Abreu", "Miguel Cabrera", "Luis Aparicio", "Wilson Álvarez"],
             "answer": 2
         },
         {
@@ -99,16 +119,16 @@
         },
         {  
             "question": "¿Cuál es el nombre del patrón de Maracaibo según la religión católica?",
-            "options": ["San Juan de Dios", "Santa Barbara", "San Sebastian", "Santa Lucía"],
+            "options": ["San Juan de Dios", "Santa Bárbara", "San Sebastián", "Santa Lucía"],
             "answer": 2
         },
         {
             "question": "¿Cuál es el color del Tranvía de Maracaibo?",
-            "options": ["azul y rojo", "verde y amarillo", "amarillo y rojo", "blanco y rojo"],
+            "options": ["Azul y Rojo", "Verde y Amarillo", "Amarillo y Rojo", "Blanco y Rojo"],
             "answer": 2
         },
         {
-            "question": "¿Cuál es el nombre de las casas de madera construidas sobre el lago de maracaibo?",
+            "question": "¿Cuál es el nombre de las casas de madera construidas sobre el lago de Maracaibo?",
             "options": ["Parabitos", "Paraflitos", "Palafitos", "Pantalifos"],
             "answer": 2
         },
@@ -120,17 +140,22 @@
     ],
     "hard": [
         {
+            "question": "¿En qué año se celebró la Feria de la Chinita por primera vez?",
+            "options": ["1749", "1869", "1966", "1999"],
+            "answer": 1
+        },
+        {
             "question": "¿Cuál fue el nombre de la primera tienda departamental en Maracaibo?",
-            "options": ["Callejón de los Pobres", "La botica nueva", "Mercado Principal Maracaibo", "Casa Mac Gregor"],
+            "options": ["Callejón de los Pobres", "La Botica Nueva", "Mercado Principal Maracaibo", "Casa Mac Gregor"],
             "answer": 3
         },
         {
             "question": "¿Cuál fue el primer rascacielos de Maracaibo?",
-            "options": ["Casa Mac Gregor", "Club Aleman", "La Botica Nueva", "Farmacia ‘‘El Convento’"],
+            "options": ["Casa Mac Gregor", "Club Alemán", "La Botica Nueva", "Farmacia ‘‘El Convento’"],
             "answer": 2
         },
         {
-            "question": "¿En qué año se escribió el himno de Maracaibo?",
+            "question": "¿En qué año se escribió el Himno de Maracaibo?",
             "options": ["1998", "2016", "2015", "2017"],
             "answer": 1
         },
@@ -145,12 +170,12 @@
             "answer": 1
         },
         {
-            "question": "¿Cuántos títulos tienen las Aguilas del Zulia en la Liga?",
+            "question": "¿Cuántos títulos tienen las Águilas del Zulia en la Liga?",
             "options": ["3", "4", "6", "2"],
             "answer": 2
         },
         {
-            "question": "¿Cuántos títulos tienen las Aguilas del Zulia en la Serie del Caribe?",
+            "question": "¿Cuántos títulos tienen las Águilas del Zulia en la Serie del Caribe?",
             "options": ["2", "4", "6", "1"],
             "answer": 0
         },
@@ -162,7 +187,7 @@
         {
             "question": "¿Cuál es el nombre de la Isla de los leprosos?",
             "options": ["Isla de Zapara", "Isla de Toas", "Isla de San Carlos", "Isla de Providencia"],
-            "answer": 2
+            "answer": 3
         }
     ]
 }
