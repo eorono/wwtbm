@@ -152,7 +152,17 @@
         {
             "question": "¿En qué año se celebró la Feria de la Chinita por primera vez?",
             "options": ["1749", "1869", "1966", "1999"],
-            "answer": 1
+            "answer": 2
+        },
+        {
+            "question": "¿Quién fue el fundador de Maracaibo?",
+            "options": ["Rafael Urdaneta", "Rafael María Baralt", "Simón Bolívar", "Ambrosio Alfinger"],
+            "answer": 3
+        },
+        {
+            "question": "¿En qué año se fundó Maracaibo?",
+            "options": ["15 de julio de 1520", "8 de septiembre de 1529", "5 de julio de 1527", "9 de agosto de 1550"],
+            "answer": 3
         },
         {
             "question": "¿Cuál fue el nombre de la primera tienda departamental en Maracaibo?",
