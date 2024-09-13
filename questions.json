@@ -93,6 +93,16 @@
             "answer": 2
         },
         {
+            "question": "¿Cuáles son las 5 etnias que hacen vida en la región zuliana?",
+            "options": ["Wayuu, Bari, Yukpa, Japreria y  Añu", "Andoque, Awa, Cuaiquer, Kofán y Guambiano", "Kamentsá, Páez, Wayuu, Yukpa y Japreria", "Yaruro, Wayuu, Bari, Yukpa, y Añu"],
+            "answer": 0
+        },
+        {
+            "question": "¿Quién inventó el bisturí de diamante?",
+            "options": ["Humberto Fernández", "Humberto Gonzalez", "Ricardo Cepeda", "Jesus Enrique Lossada"],
+            "answer": 0
+        },
+        {
             "question": "¿Quién fue el autor de la Gaita ‘‘Sentir Zuliano’’?",
             "options": ["Ricardo Aguirre", "Ricardo Cepeda", "Ricardo González", "Ricardo Segundo"],
             "answer": 1
