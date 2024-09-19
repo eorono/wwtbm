@@ -41,8 +41,8 @@
             "answer": 0
         },
         {
-            "question": "Nombre del equipo de Béisbol del Zulia",
-            "options": ["Los buchones", "Tilapias del Zulia", "Gaiteros", "Águilas del Zulia"],
+            "question": "¿Cuál es el nombre del equipo de baseball del Zulia?",
+            "options": ["pastora", "Gavilanes", "Centauros", "Águilas del Zulia"],
             "answer": 3
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "question": "¿Quién inventó el bisturí punta de diamante?",
-            "options": ["Humberto Fernández Moran", "Humberto Gonzalez", "Ricardo Cepeda", "Jesus Enrique Lossada"],
+            "options": ["Humberto Fernández Moran", "Francisco Eugenio Bustamante", "Manuel Dagnino Dassori", "Rafael Lopez Baralt"],
             "answer": 0
         },
         {
@@ -113,7 +113,7 @@
             "answer": 0
         },
         {
-            "question": "¿Cuál de estos beisbolistas nació en Maracaibo y se encuentra en el salón de la Fama de Béisbol?",
+            "question": "¿Cuál de estos beisbolistas nació en Maracaibo y se encuentra en el salón de la Fama de las grandes ligas?",
             "options": ["Bob Abreu", "Miguel Cabrera", "Luis Aparicio", "Wilson Álvarez"],
             "answer": 2
         },
