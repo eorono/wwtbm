@@ -103,10 +103,14 @@ function check(ele) {
         inGamePlay.pause();
         inGamePlay.currentTime = 0;
         answerCorrect = true;
+        setTimeout(function () {
+           nextQuestion();
+        }, 9000);
         if (questionIndex === 14) {
             result();
             correctPlay.pause();
             MainThemePlay.play();
+            
         }
     }
     else {
@@ -210,7 +214,7 @@ function disableAllLifeLines() {
 }
 // Show next question button
 function showNextBtn() {  
-    nextQuestionBtn.classList.add("show");
+    /*nextQuestionBtn.classList.add("show");*/
 }
 // Show play again button
 function playAgain() {

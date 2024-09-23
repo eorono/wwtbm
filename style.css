@@ -500,6 +500,9 @@ body{
 /* ----- MEDIA QUIERES --------*/
 
 @media  screen and (max-width: 768) {
+    html {
+        size: 70%;
+    }
     body {
         background-size: 100%;
     }
